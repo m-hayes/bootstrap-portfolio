@@ -1,0 +1,27 @@
+.about-box {
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding: 30px 50px 30px 50px;
+}
+.about-me {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    border-bottom: 4px solid #dddddd;
+}
+.about-me h2 {
+    font-weight: bold;
+    align-self: center;
+    padding-bottom: 20px;
+}
+.about-content {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-top: 20px
+}
+.about-content img {
+    width: 300px;
+    margin: 10px 20px 5px 0px;
+    float: left;
+}
