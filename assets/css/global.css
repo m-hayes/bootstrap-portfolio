@@ -1,0 +1,40 @@
+/*MEDIUM SCREEN*/
+
+/*Navbar*/
+.navbar {
+    background-color: #ffffff;
+    border-bottom: #cccccc solid 2px;
+    justify-content: space-between;
+}
+.m-teal {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+    align-self: center;
+    padding: 10px 35px 10px 35px;
+}
+.link-buttons {
+    justify-content: right;
+}
+.nav-link {
+    color: #cccccc;
+    border-right: solid 1px #dddddd;
+    padding: 8px;
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+.nav-link:hover {
+    color: #4aaaa5;
+}
+.nav-item:last-child {
+    border-right: none;
+}
+
+/*Background*/
+body {
+    background-color: #ffffff;
+    background-image: url(../images/brushed_alu.png)
+}
+
+/*Footer*/
