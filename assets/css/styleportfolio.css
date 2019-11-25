@@ -1,0 +1,33 @@
+.portfolio-box {
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding: 30px 50px 30px 50px;
+}
+.m-portfolio {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    border-bottom: 4px solid #dddddd;
+    justify-content: space-around;
+}
+.m-portfolio h2 {
+    font-weight: bold;
+    align-self: center;
+    padding-bottom: 20px;
+}
+.mpic {
+    width: 200px;
+    overflow: hidden;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.text {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 0 15px 0;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}

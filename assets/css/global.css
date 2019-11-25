@@ -5,6 +5,7 @@
     background-color: #ffffff;
     border-bottom: #cccccc solid 2px;
     justify-content: space-between;
+    padding: 0px;
 }
 .m-teal {
     background-color: #4aaaa5;
@@ -22,17 +23,18 @@
 }
 .nav-link {
     color: #777777;
-    border-right: solid 1px #cccccc;
+    
     padding: 8px;
     padding-top: 0px;
     padding-bottom: 0px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    align-self: center;
 }
 .nav-link:hover {
     color: #4aaaa5;
 }
-.nav-item:last-child {
-    border-right: none;
+.link-buttons li:not(:last-child) {
+    border-right: solid 1px #cccccc;
 }
 
 /*Background*/
